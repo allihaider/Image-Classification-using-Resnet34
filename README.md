@@ -5,4 +5,4 @@ The DogSpeciesClassification_Resnet notebook trains a neural network classifier 
 The code relies on the data directory to be structured a certain way. The official dataset has a different structure. Use the Directory_structure_change notebook to achieve the required directory structure. 
 
 ## Dataset
-Link for download: https://www.kaggle.com/jessicali9530/stanford-dogs-dataset
+Download link: https://www.kaggle.com/jessicali9530/stanford-dogs-dataset
